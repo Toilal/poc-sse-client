@@ -1,0 +1,15 @@
+{
+  "name": "poc-sse-client",
+  "version": "1.0.0",
+  "description": "- npm i --save",
+  "main": "script.js",
+  "dependencies": {
+    "event-source-polyfill": "^1.0.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
